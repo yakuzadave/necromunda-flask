@@ -1,1 +1,6 @@
 Flask==2.2.2
+marvin
+requests
+openai
+d20
+airtable-python
